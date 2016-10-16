@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="AirTravelDbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="AirTravelDbModelStoreContainer">
+          <EntitySet Name="Airports" EntityType="AirTravelDbModel.Store.Airports" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="SimpleAirportView" EntityType="AirTravelDbModel.Store.SimpleAirportView" store:Type="Views" store:Schema="dbo" store:Name="SimpleAirportView">
+            <DefiningQuery>SELECT 
+      [SimpleAirportView].[Id] AS [Id], 
+      [SimpleAirportView].[Country] AS [Country], 
+      [SimpleAirportView].[AirportCode] AS [AirportCode], 
+      [SimpleAirportView].[AirportName] AS [AirportName], 
+      [SimpleAirportView].[Location] AS [Location]
+      FROM [dbo].[SimpleAirportView] AS [SimpleAirportView]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+        <EntityType Name="Airports">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="AirportName" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="CityName" Type="nvarchar" MaxLength="255" />
+          <Property Name="Country" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="AirportCode" Type="nvarchar" MaxLength="10" />
+          <Property Name="Location" Type="geography" />
+          <Property Name="Altitude" Type="int" Nullable="false" />
+          <Property Name="TimezoneOffset" Type="float" Nullable="false" />
+          <Property Name="DST" Type="nvarchar" Nullable="false" MaxLength="2" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'AirTravelDb.dbo.SimpleAirportView' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="SimpleAirportView">
+          <Key>
+            <PropertyRef Name="Id" />
+            <PropertyRef Name="Country" />
+            <PropertyRef Name="AirportName" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Country" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="AirportCode" Type="nvarchar" MaxLength="10" />
+          <Property Name="AirportName" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="Location" Type="geography" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AirTravelDbModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="AirTravelDbEntities1" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="Airports" EntityType="AirTravelDbModel.Airport" />
+          <EntitySet Name="SimpleAirportViews" EntityType="AirTravelDbModel.SimpleAirportView" />
+        </EntityContainer>
+        <EntityType Name="Airport">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="AirportName" Type="String" Nullable="false" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="CityName" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="Country" Type="String" Nullable="false" MaxLength="255" Unicode="true" FixedLength="false" />
+          <Property Name="AirportCode" Type="String" MaxLength="10" Unicode="true" FixedLength="false" />
+          <Property Name="Location" Type="Geography" />
+          <Property Name="Altitude" Type="Int32" Nullable="false" />
+          <Property Name="TimezoneOffset" Type="Double" Nullable="false" />
+          <Property Name="DST" Type="String" Nullable="false" MaxLength="2" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="SimpleAirportView">
+          <Key>
+            <PropertyRef Name="Id" />
+            <PropertyRef Name="Country" />
+            <PropertyRef Name="AirportName" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="Country" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="AirportCode" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="AirportName" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="Geography" Name="Location" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="AirTravelDbModelStoreContainer" CdmEntityContainer="AirTravelDbEntities1">
+          <EntitySetMapping Name="Airports">
+            <EntityTypeMapping TypeName="AirTravelDbModel.Airport">
+              <MappingFragment StoreEntitySet="Airports">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="AirportName" ColumnName="AirportName" />
+                <ScalarProperty Name="CityName" ColumnName="CityName" />
+                <ScalarProperty Name="Country" ColumnName="Country" />
+                <ScalarProperty Name="AirportCode" ColumnName="AirportCode" />
+                <ScalarProperty Name="Location" ColumnName="Location" />
+                <ScalarProperty Name="Altitude" ColumnName="Altitude" />
+                <ScalarProperty Name="TimezoneOffset" ColumnName="TimezoneOffset" />
+                <ScalarProperty Name="DST" ColumnName="DST" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SimpleAirportViews">
+            <EntityTypeMapping TypeName="AirTravelDbModel.SimpleAirportView">
+              <MappingFragment StoreEntitySet="SimpleAirportView">
+                <ScalarProperty Name="Location" ColumnName="Location" />
+                <ScalarProperty Name="AirportName" ColumnName="AirportName" />
+                <ScalarProperty Name="AirportCode" ColumnName="AirportCode" />
+                <ScalarProperty Name="Country" ColumnName="Country" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

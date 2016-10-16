@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="15B3E0D2-6217-493A-A690-158C497F5318" ModuleId="WebSocketsExample" />
+  <Module PersistentId="62F83470-E9EE-4D44-8C9C-0F519B876615" ModuleId="WebSocketsClient" />
+</Modules>

@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="SLTextBasedChanges.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+
+    <StackPanel x:Name="LayoutRoot" Background="White">
+        <!--CharacterSpacing-->
+        <StackPanel>
+            <TextBlock FontSize="24">Hello, World!</TextBlock>
+            <TextBlock FontSize="24" CharacterSpacing="0">Hello, World!</TextBlock>
+            <TextBlock FontSize="24" CharacterSpacing="250">Hello, World!</TextBlock>
+            <TextBlock FontSize="24" CharacterSpacing="-125">Hello, World!</TextBlock>
+        </StackPanel>
+        <!--Line Height-->
+        <TextBlock FontSize="20" LineHeight="50" LineStackingStrategy="BaselineToBaseline">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            <LineBreak />
+            Integer cursus tincidunt ligula, ut placerat sem mollis non.
+            <LineBreak />
+            Fusce non placerat enim.
+        </TextBlock>
+
+        <StackPanel Margin="10, 10, 10, 10" Orientation="Horizontal" Height="300" >
+                <RichTextBlock Width="200" Margin="10 10 10 10" OverflowContentTarget="{Binding ElementName=Overflow1}">
+                    <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur justo lorem, rhoncus eget iaculis sit amet, rhoncus non turpis. Vivamus scelerisque est nec nisi sodales ac euismod tortor luctus. Mauris tellus ligula, porta vel laoreet at, venenatis sed orci. Etiam dapibus sem vitae felis mollis quis ornare metus dictum. Duis non tortor libero, et sagittis mauris. Vivamus commodo porta ullamcorper. Aliquam vel lectus ac leo ultrices hendrerit.</Paragraph>
+                    <Paragraph>Curabitur euismod, eros sed condimentum ornare, lectus felis cursus sapien, vel luctus orci ligula sit amet lacus. Quisque ut lorem ac urna fringilla semper sit amet ac diam. Fusce accumsan accumsan arcu at gravida. In hac habitasse platea dictumst. Vestibulum pharetra, dui in sollicitudin rhoncus, metus arcu feugiat dolor, id sodales ante nisi a eros. Quisque vehicula risus sed eros commodo eget cursus lorem adipiscing. Etiam vel purus et est egestas consequat ut ac justo. Cras nunc diam, congue pretium laoreet tempus, sollicitudin ultricies velit.</Paragraph>
+                <Paragraph>Curabitur ac sapien et risus tincidunt pulvinar. Phasellus quis velit nibh. Cras est leo, sollicitudin sed scelerisque sed, tristique vel mauris. Etiam at lorem risus, vel mollis neque. Maecenas iaculis, nibh eu sodales facilisis, lectus ipsum ultricies tellus, aliquam lobortis purus ante tempor massa. Phasellus molestie scelerisque libero, id tempor est sollicitudin nec. Sed sit amet dui vitae arcu convallis ullamcorper. Nunc quis mi purus. Vivamus elementum, mauris non dignissim cursus, lorem massa tincidunt leo, dignissim convallis enim tellus quis dui. Aliquam elementum dapibus sollicitudin. Ut pulvinar, odio sed auctor facilisis, sapien erat bibendum ante, vitae placerat turpis urna a nisi. Duis tempus, eros necsemper pulvinar, eros diam fermentum velit, eu varius felis enim quis augue. Nulla malesuada bibendum erat, id semper nulla pulvinar eu. Suspendisse faucibus blandit magna non vehicula.</Paragraph>
+            </RichTextBlock>
+            <RichTextBlockOverflow x:Name="Overflow1" Width="200" Margin="10 10 10 10"  OverflowContentTarget="{Binding ElementName=Overflow2}" />
+            <RichTextBlockOverflow  x:Name="Overflow2" Width="200" Margin="10 10 10 10" />
+
+        </StackPanel>
+    </StackPanel>
+</UserControl>

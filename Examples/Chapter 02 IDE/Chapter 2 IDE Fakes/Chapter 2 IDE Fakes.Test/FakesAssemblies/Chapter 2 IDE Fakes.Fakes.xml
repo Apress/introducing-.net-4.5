@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Chapter 2 IDE Fakes.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.ShimClass1">
+            <summary>Shim type of Chapter_2_IDE_Fakes.Class1</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimClass1.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimClass1.#ctor(Chapter_2_IDE_Fakes.Class1)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimClass1.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimClass1.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimClass1.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimClass1.Constructor">
+            <summary>Sets the shim of Class1.Class1()</summary>
+        </member>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.ShimClass1.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.ShimCustomer">
+            <summary>Shim type of Chapter_2_IDE_Fakes.Customer</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.#ctor(Chapter_2_IDE_Fakes.Customer)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.Constructor">
+            <summary>Sets the shim of Customer.Customer()</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.FirstnameGet">
+            <summary>Sets the shim of Customer.get_Firstname()</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.FirstnameSetString">
+            <summary>Sets the shim of Customer.set_Firstname(String value)</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.LastnameGet">
+            <summary>Sets the shim of Customer.get_Lastname()</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.LastnameSetString">
+            <summary>Sets the shim of Customer.set_Lastname(String value)</summary>
+        </member>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.AllInstances.FirstnameGet">
+            <summary>Sets the shim of Customer.get_Firstname()</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.AllInstances.FirstnameSetString">
+            <summary>Sets the shim of Customer.set_Firstname(String value)</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.AllInstances.LastnameGet">
+            <summary>Sets the shim of Customer.get_Lastname()</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomer.AllInstances.LastnameSetString">
+            <summary>Sets the shim of Customer.set_Lastname(String value)</summary>
+        </member>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService">
+            <summary>Shim type of Chapter_2_IDE_Fakes.CustomerService</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService.#ctor(Chapter_2_IDE_Fakes.CustomerService)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService.ConstructorICustomerRepository">
+            <summary>Sets the shim of CustomerService.CustomerService(ICustomerRepository repository)</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService.DoesCustomerExistString">
+            <summary>Sets the shim of CustomerService.DoesCustomerExist(String email)</summary>
+        </member>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.ShimCustomerService.AllInstances.DoesCustomerExistString">
+            <summary>Sets the shim of CustomerService.DoesCustomerExist(String email)</summary>
+        </member>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.StubClass1">
+            <summary>Stub type of Chapter_2_IDE_Fakes.Class1</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubClass1.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubClass1.InitializeStub">
+            <summary>Initializes a new instance of type StubClass1</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.StubClass1.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.StubClass1.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.StubClass1.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.StubCustomer">
+            <summary>Stub type of Chapter_2_IDE_Fakes.Customer</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubCustomer.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubCustomer.InitializeStub">
+            <summary>Initializes a new instance of type StubCustomer</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.StubCustomer.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.StubCustomer.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.StubCustomer.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.StubCustomerService">
+            <summary>Stub type of Chapter_2_IDE_Fakes.CustomerService</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubCustomerService.#ctor(Chapter_2_IDE_Fakes.ICustomerRepository)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubCustomerService.InitializeStub">
+            <summary>Initializes a new instance of type StubCustomerService</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.StubCustomerService.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.StubCustomerService.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Chapter_2_IDE_Fakes.Fakes.StubCustomerService.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Chapter_2_IDE_Fakes.Fakes.StubICustomerRepository">
+            <summary>Stub type of Chapter_2_IDE_Fakes.ICustomerRepository</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubICustomerRepository.#ctor">
+            <summary>Initializes a new instance of type StubICustomerRepository</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubICustomerRepository.c2idef::Chapter_2_IDE_Fakes#ICustomerRepository#Delete">
+            <summary>Sets the stub of ICustomerRepository.Delete()</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubICustomerRepository.c2idef::Chapter_2_IDE_Fakes#ICustomerRepository#Exists(System.String)">
+            <summary>Sets the stub of ICustomerRepository.Exists(String email)</summary>
+        </member>
+        <member name="M:Chapter_2_IDE_Fakes.Fakes.StubICustomerRepository.c2idef::Chapter_2_IDE_Fakes#ICustomerRepository#GetById(System.Int32)">
+            <summary>Sets the stub of ICustomerRepository.GetById(Int32 id)</summary>
+        </member>
+        <member name="F:Chapter_2_IDE_Fakes.Fakes.StubICustomerRepository.Delete">
+            <summary>Sets the stub of ICustomerRepository.Delete()</summary>
+        </member>
+        <member name="F:Chapter_2_IDE_Fakes.Fakes.StubICustomerRepository.ExistsString">
+            <summary>Sets the stub of ICustomerRepository.Exists(String email)</summary>
+        </member>
+        <member name="F:Chapter_2_IDE_Fakes.Fakes.StubICustomerRepository.GetByIdInt32">
+            <summary>Sets the stub of ICustomerRepository.GetById(Int32 id)</summary>
+        </member>
+    </members>
+</doc>

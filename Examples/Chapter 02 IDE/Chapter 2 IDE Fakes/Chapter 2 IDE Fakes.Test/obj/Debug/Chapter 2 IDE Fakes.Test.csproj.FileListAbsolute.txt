@@ -1,0 +1,67 @@
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\Chapter 2 IDE Fakes.Test.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\Chapter 2 IDE Fakes.Test.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\Chapter 2 IDE Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\Chapter 2 IDE Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Chapter 2 IDE Fakes.Test.csprojFakesResolveAssemblyReference.cache
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.Fakes.xml
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\f.ah
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\f.ch
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\f.cs
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\f.csproj
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\f.fakes
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\f.fakesconfig
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\o\Chapter 2 IDE Fakes.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\o\Chapter 2 IDE Fakes.Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\o\f.csproj.FileListAbsolute.txt
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\o\f.csprojResolveAssemblyReference.cache
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\fakes.args
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Chapter 2 IDE Fakes.Test.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Chapter 2 IDE Fakes.Test.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\Chapter 2 IDE Fakes.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\Chapter 2 IDE Fakes.Fakes.xml
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\b\mscorlib.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\b\mscorlib.4.0.0.0.Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\b\mscorlib.4.0.0.0.Fakes.xml
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\f.ah
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\f.args
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\f.ch
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\f.cs
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\f.csproj
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\f.fakes
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\f.fakesconfig
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\f.snk
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\o\f.csproj.FileListAbsolute.txt
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\o\f.csprojResolveAssemblyReference.cache
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\o\mscorlib.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\o\mscorlib.4.0.0.0.Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.xml
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\f.ah
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\f.args
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\f.ch
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\f.cs
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\f.csproj
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\f.fakes
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\f.fakesconfig
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\f.snk
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\o\f.csproj.FileListAbsolute.txt
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\o\f.csprojResolveAssemblyReference.cache
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Chapter 2 IDE Fakes.Test.csprojResolveAssemblyReference.cache
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\Chapter 2 IDE Fakes.Fakes.fakesconfig
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\mscorlib.4.0.0.0.Fakes.fakesconfig
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\System.4.0.0.0.Fakes.fakesconfig
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\mscorlib.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\System.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\mscorlib.4.0.0.0.Fakes.xml
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\bin\Debug\System.4.0.0.0.Fakes.xml

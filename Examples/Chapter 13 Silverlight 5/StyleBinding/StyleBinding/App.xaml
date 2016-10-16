@@ -1,0 +1,15 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:my="clr-namespace:StyleBinding"
+             x:Class="StyleBinding.App"
+             >
+    <Application.Resources>
+        <my:UserPreference x:Key="preference" />
+        <Style TargetType="TextBlock">
+            <Style.Setters>
+                <Setter Property="FontSize" Value="40" />
+                <Setter Property="FontFamily" Value="{Binding FavouriteFont, Source={StaticResource preference}}" />
+                <Setter Property="Foreground" Value="{Binding FavouriteColor, Source={StaticResource preference}}" />
+            </Style.Setters>
+        </Style>
+    </Application.Resources>
+</Application>

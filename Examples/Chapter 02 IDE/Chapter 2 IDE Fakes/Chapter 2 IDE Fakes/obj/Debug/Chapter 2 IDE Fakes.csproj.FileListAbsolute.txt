@@ -1,0 +1,5 @@
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes\bin\Debug\Chapter 2 IDE Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes\bin\Debug\Chapter 2 IDE Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes\obj\Debug\Chapter 2 IDE Fakes.csprojResolveAssemblyReference.cache
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes\obj\Debug\Chapter 2 IDE Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes\obj\Debug\Chapter 2 IDE Fakes.pdb

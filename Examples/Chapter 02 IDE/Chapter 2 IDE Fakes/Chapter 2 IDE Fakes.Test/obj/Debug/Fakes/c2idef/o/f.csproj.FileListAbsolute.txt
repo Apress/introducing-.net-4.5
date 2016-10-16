@@ -1,0 +1,9 @@
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.Fakes.xml
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\b\Chapter 2 IDE Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\o\f.csprojResolveAssemblyReference.cache
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\o\Chapter 2 IDE Fakes.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\c2idef\o\Chapter 2 IDE Fakes.Fakes.pdb

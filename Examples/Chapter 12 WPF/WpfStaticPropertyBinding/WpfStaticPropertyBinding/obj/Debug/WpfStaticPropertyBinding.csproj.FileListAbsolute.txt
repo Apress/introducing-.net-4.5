@@ -1,0 +1,14 @@
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\bin\Debug\WpfStaticPropertyBinding.exe.config
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\bin\Debug\WpfStaticPropertyBinding.exe
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\bin\Debug\WpfStaticPropertyBinding.pdb
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\WpfStaticPropertyBinding.csprojResolveAssemblyReference.cache
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\MainWindow.g.cs
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\App.g.cs
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\WpfStaticPropertyBinding_MarkupCompile.cache
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\WpfStaticPropertyBinding_MarkupCompile.lref
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\MainWindow.baml
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\WpfStaticPropertyBinding.g.resources
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\WpfStaticPropertyBinding.Properties.Resources.resources
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\WpfStaticPropertyBinding.csproj.GenerateResource.Cache
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\WpfStaticPropertyBinding.exe
+D:\Work\Introducing .NET 4.5\Projects\WpfStaticPropertyBinding\WpfStaticPropertyBinding\obj\Debug\WpfStaticPropertyBinding.pdb

@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfRibbonSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Ribbon>
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu >
+                    <RibbonApplicationMenuItem Header="New"  ImageSource="Images\New.png"/>
+                    <RibbonApplicationMenuItem Header="Open" ImageSource="Images\Open.png"/>
+                    <RibbonApplicationMenuItem Header="Exit" ImageSource="Images\Exit.png"/>
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+            <!--<Ribbon.QuickAccessToolBar>
+                <RibbonQuickAccessToolBar >
+                    <RibbonButton x:Name="SaveButton" 
+                                         SmallImageSource="Images/Save.png" >
+                    </RibbonButton>
+                </RibbonQuickAccessToolBar>
+            </Ribbon.QuickAccessToolBar>
+            <RibbonTab Header="File" />-->
+
+            <RibbonTab Header="Home" >
+                <RibbonGroup Header="Clipboard">
+                    <RibbonButton Label="Paste" LargeImageSource="Images/Paste.png"></RibbonButton>
+                    <RibbonButton Label="Cut" SmallImageSource="Images/Cut.png"></RibbonButton>
+                    <RibbonButton Label="Copy" SmallImageSource="Images/Copy.png"></RibbonButton>
+                </RibbonGroup>
+            </RibbonTab>
+            <RibbonTab Header="Insert" />
+
+                    
+        </Ribbon>
+    </Grid>
+</Window>

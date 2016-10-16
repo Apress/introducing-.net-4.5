@@ -1,0 +1,11 @@
+﻿<Window x:Class="TPLYieldExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="600
+        " Width="525">
+    <Grid>
+        <ListBox x:Name="ListOfThings" HorizontalAlignment="Left" Height="322" Margin="10,10,0,0" VerticalAlignment="Top" Width="219"/>
+        <Button x:Name="GetStuffButton" Content="Get Stuff" HorizontalAlignment="Left" Height="36" Margin="276,33,0,0" VerticalAlignment="Top" Width="165" Click="GetStuffButton_Click"/>
+
+    </Grid>
+</Window>

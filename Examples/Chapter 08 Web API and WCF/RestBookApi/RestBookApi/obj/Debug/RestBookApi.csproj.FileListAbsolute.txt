@@ -1,0 +1,1 @@
+E:\Work\Introducing .NET 4.5\Projects\RestBookApi\RestBookApi\obj\Debug\RestBookApi.csprojResolveAssemblyReference.cache

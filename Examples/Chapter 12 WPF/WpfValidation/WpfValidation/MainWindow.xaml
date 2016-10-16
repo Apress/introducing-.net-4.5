@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfValidation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <TextBlock>Name:</TextBlock>
+        <TextBox Text="{Binding Name, Mode=TwoWay, NotifyOnValidationError=True, ValidatesOnNotifyDataErrors=True}" />
+        <!--<TextBox Text="{Binding Name, Mode=TwoWay, ValidatesOnDataErrors=True}" />-->
+        <Button>Submit</Button>
+    </StackPanel>
+</Window>

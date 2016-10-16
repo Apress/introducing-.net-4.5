@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="CE87447E-95E4-4DC5-8F0E-DBA371403620" ModuleId="SLTextBasedChanges" />
+  <Module PersistentId="F5F712A0-5683-4621-9167-6FC0B1DCAA80" ModuleId="SLTextBasedChanges.Web" />
+</Modules>

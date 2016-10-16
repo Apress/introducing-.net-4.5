@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="AppBarDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppBarDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.BottomAppBar>
+        <AppBar HorizontalContentAlignment="Stretch" Height="88" VerticalContentAlignment="Stretch" >
+            <StackPanel Grid.Column="1" Orientation="Horizontal">
+                <Button Content="&#x2661;" Style="{StaticResource AppBarButtonStyle}" AutomationProperties.Name="Heart" />
+                <Button Content="&#x2662;" Style="{StaticResource AppBarButtonStyle}" AutomationProperties.Name="Diamond"/>
+                <Button Content="&#x2664;" Style="{StaticResource AppBarButtonStyle}" AutomationProperties.Name="Spade"/>
+                <Button Content="&#x2667;" Style="{StaticResource AppBarButtonStyle}" AutomationProperties.Name="Clover"/>
+            </StackPanel>
+        </AppBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock Margin="30" Style="{StaticResource HeaderTextStyle}" Text="AppBar Demo App" />
+    </Grid>
+</Page>

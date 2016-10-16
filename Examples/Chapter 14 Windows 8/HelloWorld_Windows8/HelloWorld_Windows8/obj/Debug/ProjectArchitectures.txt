@@ -1,0 +1,1 @@
+E:\Work\Introducing .NET 4.5\Projects\HelloWorld_Windows8\HelloWorld_Windows8\HelloWorld_Windows8.csproj;neutral

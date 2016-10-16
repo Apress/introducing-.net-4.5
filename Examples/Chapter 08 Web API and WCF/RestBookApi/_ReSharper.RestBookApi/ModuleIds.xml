@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="E918CF0C-912B-4E0B-96F5-629C26ED3D07" ModuleId="RestBookApi" />
+  <Module PersistentId="41EE5DDD-462C-4C64-BA39-B19413B71163" ModuleId="RestBookApi.Tests" />
+</Modules>

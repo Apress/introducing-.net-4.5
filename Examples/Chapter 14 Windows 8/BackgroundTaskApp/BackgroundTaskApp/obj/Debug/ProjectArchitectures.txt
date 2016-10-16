@@ -1,0 +1,2 @@
+E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\BackgroundTaskApp.csproj;neutral
+E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\Tasks\Tasks.csproj;neutral

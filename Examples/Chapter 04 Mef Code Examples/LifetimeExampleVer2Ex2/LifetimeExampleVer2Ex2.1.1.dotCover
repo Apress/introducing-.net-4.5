@@ -1,0 +1,11 @@
+<Configuration>
+  <CoverageFilters>
+    <IncludeFilters>
+      <Filter ModuleMask="*" ClassMask="*" FunctionMask="*" />
+    </IncludeFilters>
+    <ExcludeFilters />
+  </CoverageFilters>
+  <SnapshotDialog>
+    <InitialDirectory>C:\Users\wtulloch\Documents\DotNet 4.5 Book Code\MEF\LifetimeExampleVer2Ex2</InitialDirectory>
+  </SnapshotDialog>
+</Configuration>

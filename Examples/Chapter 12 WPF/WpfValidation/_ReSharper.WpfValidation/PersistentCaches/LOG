@@ -1,0 +1,13 @@
+2012/09/24-00:57:53.047 1dcc Recovering log #12
+2012/09/24-00:57:53.048 1dcc Level-0 table #14: started
+2012/09/24-00:57:53.057 1dcc Level-0 table #14: 3252 bytes OK
+2012/09/24-00:57:53.070 1dcc Delete type=0 #12
+2012/09/24-00:57:53.071 1dcc Delete type=3 #10
+2012/09/24-00:57:53.071 1228 Compacting 4@0 + 0@1 files
+2012/09/24-00:57:53.078 1228 Generated table #16: 53 keys, 6542 bytes
+2012/09/24-00:57:53.078 1228 Compacted 4@0 + 0@1 files => 6542 bytes
+2012/09/24-00:57:53.082 1228 Delete type=2 #5
+2012/09/24-00:57:53.083 1228 Delete type=2 #8
+2012/09/24-00:57:53.083 1228 Delete type=2 #11
+2012/09/24-00:57:53.083 1228 Delete type=2 #14
+2012/09/24-00:57:53.083 1228 compacted to: files[ 0 1 0 0 0 0 0 ]

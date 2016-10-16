@@ -1,0 +1,31 @@
+﻿<UserControl
+    x:Class="Win8ConventionBuilder.RectangleTileView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MetroConventionBuilder"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+      d:DesignHeight="144" d:DesignWidth="168">
+    
+<Border 
+        BorderBrush="Black" 
+        BorderThickness="1" 
+        Background="{Binding BackgroundColour}" 
+        Margin="10" >
+          <Grid x:Name="TitleGrid" Height="250"
+              Width="300">
+            <StackPanel>
+                <Border HorizontalAlignment="Stretch" Background="White" Opacity="0.5" Padding="5" VerticalAlignment="Top">
+                <TextBlock Text="{Binding Title}"
+                       HorizontalAlignment="Stretch"
+                           Foreground="Black"
+                           Opacity="1"
+                        FontSize="28" TextAlignment="Center"/>
+            </Border>
+            <TextBlock Text="{Binding Message}" Margin="4" TextWrapping="Wrap" Foreground="Black" FontSize="28"/>
+            </StackPanel>
+
+        </Grid>
+    </Border>
+</UserControl>

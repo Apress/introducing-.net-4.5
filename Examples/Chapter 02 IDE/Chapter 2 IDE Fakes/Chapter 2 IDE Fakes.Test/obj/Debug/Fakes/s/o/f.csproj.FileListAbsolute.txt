@@ -1,0 +1,7 @@
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.xml
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\o\f.csprojResolveAssemblyReference.cache
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.pdb

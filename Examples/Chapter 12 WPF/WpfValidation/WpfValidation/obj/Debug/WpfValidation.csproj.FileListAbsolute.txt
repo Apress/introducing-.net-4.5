@@ -1,0 +1,13 @@
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\bin\Debug\WpfValidation.exe.config
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\bin\Debug\WpfValidation.exe
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\bin\Debug\WpfValidation.pdb
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\WpfValidation.csprojResolveAssemblyReference.cache
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\MainWindow.baml
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\MainWindow.g.cs
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\App.g.cs
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\WpfValidation_MarkupCompile.cache
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\WpfValidation.g.resources
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\WpfValidation.Properties.Resources.resources
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\WpfValidation.csproj.GenerateResource.Cache
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\WpfValidation.exe
+D:\Work\Introducing .NET 4.5\Projects\WpfValidation\WpfValidation\obj\Debug\WpfValidation.pdb

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="AirTravelModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="AirTravelModelStoreContainer" />
+        <Function Name="GetDistancesFromMajorAustralianAiports" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="DestinationAirport" Type="nvarchar" Mode="In" />
+          <ReturnType>
+            <CollectionType>
+              <RowType>
+                <Property Name="Id" Type="int" Nullable="false" />
+                <Property Name="StartPoint" Type="nvarchar" MaxLength="255" />
+                <Property Name="EndPoint" Type="nvarchar" MaxLength="255" />
+                <Property Name="StartPointAirportCode" Type="nvarchar" MaxLength="10" />
+                <Property Name="Distance" Type="int" />
+              </RowType>
+            </CollectionType>
+          </ReturnType>
+        </Function>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AirTravelModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="AirTravelDbEntities" p1:LazyLoadingEnabled="true">
+          <FunctionImport Name="GetDistancesFromMajorAustralianAiports" IsComposable="true" ReturnType="Collection(AirTravelModel.DistancesFromAustralianAirports)">
+            <Parameter Name="DestinationAirport" Mode="In" Type="String" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="DistancesFromAustralianAirports">
+          <Property Type="Int32" Name="Id" Nullable="false" />
+          <Property Type="String" Name="StartPoint" Nullable="true" MaxLength="255" />
+          <Property Type="String" Name="EndPoint" Nullable="true" MaxLength="255" />
+          <Property Type="String" Name="StartPointAirportCode" Nullable="true" MaxLength="10" />
+          <Property Type="Int32" Name="Distance" Nullable="true" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="AirTravelModelStoreContainer" CdmEntityContainer="AirTravelDbEntities">
+          <FunctionImportMapping FunctionImportName="GetDistancesFromMajorAustralianAiports" FunctionName="AirTravelModel.Store.GetDistancesFromMajorAustralianAiports">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="AirTravelModel.DistancesFromAustralianAirports">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="StartPoint" ColumnName="StartPoint" />
+                <ScalarProperty Name="EndPoint" ColumnName="EndPoint" />
+                <ScalarProperty Name="StartPointAirportCode" ColumnName="StartPointAirportCode" />
+                <ScalarProperty Name="Distance" ColumnName="Distance" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

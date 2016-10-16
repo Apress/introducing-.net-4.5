@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAGSWIN8</Machine>
+    <WindowsUser>Mahesh</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>4671F561E294C9C790E250CFCE7E585CEA0E8247EC14869DF8279A12F552A9BF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c7eb6e90-1eb2-4fc5-a81c-94dd893fcd36_1.0.0.0_neutral__8s6r1t6dbbk6p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c7eb6e90-1eb2-4fc5-a81c-94dd893fcd36_8s6r1t6dbbk6p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c7eb6e90-1eb2-4fc5-a81c-94dd893fcd36</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mahesh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-19T15:21:43.820</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\bin\Debug\LifecycleSample.exe">
+      <PackagePath>LifecycleSample.exe</PackagePath>
+      <Modified>2012-09-19T15:21:43.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\bin\Debug\LifecycleSample.pdb">
+      <PackagePath>LifecycleSample.pdb</PackagePath>
+      <Modified>2012-09-19T15:21:43.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-06-07T02:27:52.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-06-07T02:26:25.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\bin\Debug\BasicPage.xaml">
+      <PackagePath>BasicPage.xaml</PackagePath>
+      <Modified>2012-06-07T03:40:00.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T11:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-06-07T02:26:25.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\LifecycleSample\LifecycleSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-06-07T02:28:30.090</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

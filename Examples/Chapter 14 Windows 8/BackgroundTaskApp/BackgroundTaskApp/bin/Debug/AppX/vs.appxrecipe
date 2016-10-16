@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAGSWIN8</Machine>
+    <WindowsUser>Mahesh</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>9A18C32FE00C563253C0254DB50402FE250F7E98598070BAAD22991FD8437DD7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2c44592b-cb7c-4fcb-ac09-c1e3e4a01fee_1.0.0.0_neutral__8s6r1t6dbbk6p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2c44592b-cb7c-4fcb-ac09-c1e3e4a01fee_8s6r1t6dbbk6p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2c44592b-cb7c-4fcb-ac09-c1e3e4a01fee</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mahesh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-19T15:26:48.621</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\bin\Debug\BackgroundTaskApp.exe">
+      <PackagePath>BackgroundTaskApp.exe</PackagePath>
+      <Modified>2012-09-19T15:26:47.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\bin\Debug\BackgroundTaskApp.pdb">
+      <PackagePath>BackgroundTaskApp.pdb</PackagePath>
+      <Modified>2012-09-19T15:26:47.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\Tasks\bin\Debug\Tasks.pdb">
+      <PackagePath>Tasks.pdb</PackagePath>
+      <Modified>2012-09-19T15:26:46.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\Tasks\bin\Debug\Tasks.winmd">
+      <PackagePath>Tasks.winmd</PackagePath>
+      <Modified>2012-09-19T15:26:46.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\Assets\BadgeLogo - Copy.png">
+      <PackagePath>Assets\BadgeLogo - Copy.png</PackagePath>
+      <Modified>2012-07-01T09:40:36.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-13T21:31:13.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-06-11T11:07:45.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T11:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-06-11T11:07:45.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\BackgroundTaskApp\BackgroundTaskApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-19T15:26:47.234</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

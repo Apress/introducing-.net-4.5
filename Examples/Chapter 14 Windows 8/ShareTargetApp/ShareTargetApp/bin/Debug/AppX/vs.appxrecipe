@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAGSWIN8</Machine>
+    <WindowsUser>Mahesh</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>643325FF88F9F3B046D1D94CCB57DF570D08A207175DE6EBE30215C5C5D7FB73</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c42effc3-6714-42de-bdc4-e361d7be6712_1.0.0.0_neutral__8s6r1t6dbbk6p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c42effc3-6714-42de-bdc4-e361d7be6712_8s6r1t6dbbk6p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c42effc3-6714-42de-bdc4-e361d7be6712</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mahesh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-19T15:10:18.163</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\bin\Debug\ShareTargetApp.exe">
+      <PackagePath>ShareTargetApp.exe</PackagePath>
+      <Modified>2012-09-19T15:10:18.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\bin\Debug\ShareTargetApp.pdb">
+      <PackagePath>ShareTargetApp.pdb</PackagePath>
+      <Modified>2012-09-19T15:10:18.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T07:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-06-03T22:51:51.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-06-03T22:47:37.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T11:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-06-03T22:47:37.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\bin\Debug\ShareTargetPage.xaml">
+      <PackagePath>ShareTargetPage.xaml</PackagePath>
+      <Modified>2012-06-03T22:51:51.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Projects\ShareTargetApp.old\ShareTargetApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-06-03T22:56:45.129</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

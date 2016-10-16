@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAGSWIN8</Machine>
+    <WindowsUser>Mahesh</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B26244C86BD8CDB8460643D1F33695FC5EE00F9F23E8E0DF7453FCC7C28B43BC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6ff25625-fc43-46c7-abce-af501aa92344_1.0.0.0_neutral__8s6r1t6dbbk6p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6ff25625-fc43-46c7-abce-af501aa92344_8s6r1t6dbbk6p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6ff25625-fc43-46c7-abce-af501aa92344</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mahesh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-19T15:02:45.374</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\bin\Debug\SemanticZoom.exe">
+      <PackagePath>SemanticZoom.exe</PackagePath>
+      <Modified>2012-09-19T15:02:45.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\bin\Debug\SemanticZoom.pdb">
+      <PackagePath>SemanticZoom.pdb</PackagePath>
+      <Modified>2012-09-19T15:02:45.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-19T15:01:21.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-09-19T15:01:59.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\SemanticZoom\SemanticZoom\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-19T15:02:45.301</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+c:\users\mahesh\documents\visual studio 11\Projects\WebSocketsExample\WebSocketsExample\bin\Debug\WebSocketsExample.dll.config
+c:\users\mahesh\documents\visual studio 11\Projects\WebSocketsExample\WebSocketsExample\bin\Debug\WebSocketsExample.dll
+c:\users\mahesh\documents\visual studio 11\Projects\WebSocketsExample\WebSocketsExample\bin\Debug\WebSocketsExample.pdb
+c:\users\mahesh\documents\visual studio 11\Projects\WebSocketsExample\WebSocketsExample\obj\Debug\WebSocketsExample.csprojResolveAssemblyReference.cache
+c:\users\mahesh\documents\visual studio 11\Projects\WebSocketsExample\WebSocketsExample\obj\Debug\WebSocketsExample.dll
+c:\users\mahesh\documents\visual studio 11\Projects\WebSocketsExample\WebSocketsExample\obj\Debug\WebSocketsExample.pdb

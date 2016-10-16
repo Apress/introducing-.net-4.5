@@ -1,0 +1,1 @@
+E:\Work\Introducing .NET 4.5\Source Code\Chapter 14 - Windows 8\Carousel\Carousal\Carousel.csproj;neutral

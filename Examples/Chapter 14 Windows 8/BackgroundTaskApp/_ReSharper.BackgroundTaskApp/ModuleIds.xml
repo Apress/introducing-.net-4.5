@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="7B2D77C6-4682-4148-85A3-94B9B0A8A823" ModuleId="BackgroundTaskApp" />
+  <Module PersistentId="3564B64D-9C65-4302-9CC4-426718D0691D" ModuleId="Tasks" />
+</Modules>

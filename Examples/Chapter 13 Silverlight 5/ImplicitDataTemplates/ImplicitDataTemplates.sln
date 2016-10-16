@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitDataTemplates", "ImplicitDataTemplates\ImplicitDataTemplates.csproj", "{0BAB869F-0F80-45F0-BE8B-6E2600D66E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitDataTemplates.Web", "ImplicitDataTemplates.Web\ImplicitDataTemplates.Web.csproj", "{A0D4844F-4724-4E7A-B36E-B15E40BD5538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BAB869F-0F80-45F0-BE8B-6E2600D66E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAB869F-0F80-45F0-BE8B-6E2600D66E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAB869F-0F80-45F0-BE8B-6E2600D66E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAB869F-0F80-45F0-BE8B-6E2600D66E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D4844F-4724-4E7A-B36E-B15E40BD5538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D4844F-4724-4E7A-B36E-B15E40BD5538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D4844F-4724-4E7A-B36E-B15E40BD5538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D4844F-4724-4E7A-B36E-B15E40BD5538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

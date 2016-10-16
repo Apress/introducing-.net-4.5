@@ -1,0 +1,8 @@
+D:\Dropbox\Book\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dropbox\Book\Examples\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Dropbox\Book\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dropbox\Book\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dropbox\Book\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\xunit.dll
+D:\Dropbox\Book\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\xunit.xml
+D:\Dropbox\Book\Examples\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Dropbox\Book\Examples\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

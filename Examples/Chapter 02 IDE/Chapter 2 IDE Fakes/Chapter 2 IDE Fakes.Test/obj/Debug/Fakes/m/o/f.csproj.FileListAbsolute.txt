@@ -1,0 +1,7 @@
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\b\mscorlib.4.0.0.0.Fakes.xml
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\b\mscorlib.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\b\mscorlib.4.0.0.0.Fakes.pdb
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\o\f.csprojResolveAssemblyReference.cache
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\o\mscorlib.4.0.0.0.Fakes.dll
+C:\dropbox\Book\Examples\Chapter 2 IDE\Chapter 2 IDE Fakes\Chapter 2 IDE Fakes.Test\obj\Debug\Fakes\m\o\mscorlib.4.0.0.0.Fakes.pdb

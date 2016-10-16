@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfDataBindingWait.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:WpfDataBindingWait="clr-namespace:WpfDataBindingWait" Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <WpfDataBindingWait:Person x:Key="PersonObject" Name="John Doe" />
+    </Window.Resources>
+    <StackPanel DataContext="{StaticResource PersonObject}">
+        <TextBox x:Name="BoundTextBox" Text="{Binding Name, UpdateSourceTrigger=PropertyChanged, Delay =5000}" />
+        <TextBlock Text="{Binding Name}" />
+</StackPanel>
+</Window>

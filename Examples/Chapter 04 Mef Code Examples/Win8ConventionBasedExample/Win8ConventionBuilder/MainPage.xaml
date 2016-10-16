@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="Win8ConventionBuilder.MainPage"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Win8ConventionBuilder"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock 
+            Text="MEF Example With Tiles" 
+            Style="{StaticResource PageHeaderTextStyle}"
+            Margin="20"
+            VerticalAlignment="Center"/>
+        <ListView Grid.Row="1"
+            x:Name="TilesDisplay" 
+            ItemsSource="{Binding Tiles}" 
+            Margin="31,25,62,70" 
+            VerticalAlignment="Stretch" 
+            HorizontalAlignment="Stretch">
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <!--<StackPanel Orientation="Horizontal" />-->
+                    <WrapGrid/>
+                </ItemsPanelTemplate>
+
+            </ListView.ItemsPanel>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                   <local:RectangleTileView/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <!--<StackPanel x:Name="TilesPanel" HorizontalAlignment="Left" Height="206" Margin="69,25,0,0" VerticalAlignment="Top" Width="748"/>-->
+
+    </Grid>
+</Page>

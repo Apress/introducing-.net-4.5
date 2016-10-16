@@ -1,0 +1,4 @@
+E:\Work\Introducing .NET 4.5\Source Code\Chapter 13 - Silverlight 5\ImplicitDataTemplates\ImplicitDataTemplates.Web\bin\ImplicitDataTemplates.Web.dll
+E:\Work\Introducing .NET 4.5\Source Code\Chapter 13 - Silverlight 5\ImplicitDataTemplates\ImplicitDataTemplates.Web\bin\ImplicitDataTemplates.Web.pdb
+E:\Work\Introducing .NET 4.5\Source Code\Chapter 13 - Silverlight 5\ImplicitDataTemplates\ImplicitDataTemplates.Web\obj\Debug\ImplicitDataTemplates.Web.dll
+E:\Work\Introducing .NET 4.5\Source Code\Chapter 13 - Silverlight 5\ImplicitDataTemplates\ImplicitDataTemplates.Web\obj\Debug\ImplicitDataTemplates.Web.pdb

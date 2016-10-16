@@ -1,0 +1,22 @@
+﻿<Page x:Class="FlipView.MainPage" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="using:FlipView"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d">
+
+    <StackPanel Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock Margin="30" Style="{StaticResource HeaderTextStyle}" Text="FlipView Example" />
+        <FlipView>
+            <FlipViewItem>
+                <Image Source="Images/Image1.JPG" />
+            </FlipViewItem>
+            <FlipViewItem>
+                <Image Source="Images/Image2.JPG" />
+            </FlipViewItem>
+            <FlipViewItem>
+                <Image Source="Images/Image3.JPG" />
+            </FlipViewItem>
+        </FlipView>
+
+    </StackPanel>
+</Page>
+

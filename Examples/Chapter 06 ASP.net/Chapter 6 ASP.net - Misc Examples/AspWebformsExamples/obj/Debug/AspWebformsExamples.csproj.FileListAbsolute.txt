@@ -1,0 +1,14 @@
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\obj\Debug\AspWebformsExamples.csprojResolveAssemblyReference.cache
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\AspWebformsExamples.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\AspWebformsExamples.pdb
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\Antlr3.Runtime.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\Microsoft.ScriptManager.jQuery.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\System.Web.Optimization.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\System.Web.Providers.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\bin\WebGrease.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\obj\Debug\AspWebformsExamples.dll
+D:\Dropbox\Book\Examples\AspWebformsExamples\AspWebformsExamples\obj\Debug\AspWebformsExamples.pdb

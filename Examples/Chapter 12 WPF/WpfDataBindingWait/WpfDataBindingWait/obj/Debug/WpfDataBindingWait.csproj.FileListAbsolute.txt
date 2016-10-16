@@ -1,0 +1,15 @@
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\bin\Debug\WpfDataBindingWait.exe.config
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\bin\Debug\WpfDataBindingWait.exe
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\bin\Debug\WpfDataBindingWait.pdb
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\WpfDataBindingWait.csprojResolveAssemblyReference.cache
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\MainWindow.baml
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\MainWindow.g.cs
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\App.g.cs
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\WpfDataBindingWait_MarkupCompile.cache
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\WpfDataBindingWait.g.resources
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\WpfDataBindingWait.Properties.Resources.resources
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\WpfDataBindingWait.csproj.GenerateResource.Cache
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\WpfDataBindingWait.exe
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\WpfDataBindingWait.pdb
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\Introducing .NET 4.5\Projects\WpfDataBindingWait\WpfDataBindingWait\obj\Debug\WpfDataBindingWait_MarkupCompile.lref
